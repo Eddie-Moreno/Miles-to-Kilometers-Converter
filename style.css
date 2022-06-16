@@ -1,6 +1,7 @@
 body{
     background-color: #DFFDC1;
     font-family: Roboto Mono;
+    
 }
 
 .top-text{
@@ -12,11 +13,12 @@ body{
     border-radius: 50px;
     margin-left: 50px;
     margin-top: 30px;
-    margin-bottom: 25px;
+    margin-bottom: 34px;
     
 }
 .input1{
     border-radius: 10px;
+
 }
 
 .input2{
@@ -30,9 +32,10 @@ body{
     display: flex;
     justify-content: center;
     margin-left: 58px;
+    margin-top: 32px;
 }
 
-footer{
+/* .footer{
     background-color: aqua;
     border-radius: 5px;
-}
+} */
